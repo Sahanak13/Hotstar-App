@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     <!-- ------------------ Title ------------------ -->
-    <title>Netfix watch Movies, Shows Online</title>
+    <title>Disney Hotstar-Watch movies,shows online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
     <link rel="stylesheet" href="./assets/css/style.css">
@@ -23,8 +23,8 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">CINEMAS</a></li>
-            <li class="nav-items"><a href="#">   good</a></li>
-            <li class="nav-items"><a href="#">Premium</a></li>
+            <li class="nav-items"><a href="#">   ISE</a></li>
+            <li class="nav-items"><a href="#">BEC</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
