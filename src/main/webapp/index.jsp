@@ -23,8 +23,8 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">CINEMAS</a></li>
-            <li class="nav-items"><a href="#">   ISE</a></li>
-            <li class="nav-items"><a href="#">BEC</a></li>
+            <li class="nav-items"><a href="#"> AUTO CD</a></li>
+            <li class="nav-items"><a href="#">BEC ISE</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
